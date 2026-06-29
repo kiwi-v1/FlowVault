@@ -240,6 +240,12 @@ FlowVault implements rigorous exception handling covering three mandatory fallba
 ![Mobile landing page](screenshots/mobile%20landingg%20page%20.png)
 ![Mobile home page](screenshots/mobile%20home%20page%20.png)
 
+### CI/CD Pipeline Running & Passing
+![CI/CD Checks Passed](screenshots/ci_checks.png)
+
+### Smart Contract Test Output
+![Test Output](screenshots/test_output.png)
+
 ### Animated Walkthrough (Demo)
 ![Demo video](screenshots/demo%20video.gif)
 
