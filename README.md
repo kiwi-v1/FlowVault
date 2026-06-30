@@ -11,7 +11,7 @@
 
 **Continuous linear token vesting and asset streaming on Stellar Testnet — built using Soroban smart contracts with verifiable on-chain inter-contract calls.**
 
-🌐 **[Live Demo →](https://flowvault.usage-concur-tyke.workers.dev/)**
+🌐 **Live Demo → https://flowvault.usage-concur-tyke.workers.dev **
 
 </div>
 
